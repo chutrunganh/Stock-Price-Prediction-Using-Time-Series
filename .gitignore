@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# IntelliJ
+*.iml
+*.ipr
+*.idea/
+
 # Distribution / packaging
 .Python
 build/
