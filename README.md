@@ -21,7 +21,7 @@ making well-informed decisions.
 4. **Model Development and Evaluation:** Construct and assess the performance of various predictive models, including AR (Autoregressive), MA (Moving Average), ARIMA (Autoregressive Integrated Moving Average), and Prophet, to forecast future stock prices.
 5. **Insight Generation:** Analyze the model outcomes to offer actionable insights for investors.
 
-For detailed information, please refer to the [Project Report]()
+For detailed information, please refer to the [Project Report](https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series/blob/master/Docs/AppliedStat_Report.pdf)
 
 ## Contributors
 
